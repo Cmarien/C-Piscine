@@ -1,0 +1,5 @@
+Credentials cache: API:9E3C04C6-D577-4DE6-B508-8B5BA7D057B7
+        Principal: cmarien@42.FR
+
+  Issued                Expires               Principal
+Mar  9 14:09:07 2020  Mar 16 14:09:07 2020  krbtgt/42.FR@42.FR
